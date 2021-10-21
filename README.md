@@ -12,4 +12,8 @@ A partir disso concluí que seria interessante modificar os dois operandos na fu
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-:books: 	:man_technologist:  :raised_hands:  
+Detalhe dos 3 "console.log" que coloquei pra me ajudar a identificar o que estava sendo passado em variáveis das funções "lightColor" e "click":
+
+![2021-10-21 (1)](https://user-images.githubusercontent.com/81592753/138348785-656d4585-2c1b-4c95-8376-6ef97bb75b11.png)
+
+### Bóra evoluir! 🚀:books: 	:man_technologist:  :raised_hands:  
